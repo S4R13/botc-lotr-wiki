@@ -1,0 +1,18 @@
+{
+  "name": "Almanaque de la Tierra Media",
+  "short_name": "BOTC LOTR",
+  "description": "Almanaque de Blood on the Clocktower ambientado en El Señor de los Anillos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1012",
+  "theme_color": "#0c1012",
+  "icons": [
+    {
+      "src": "assets/saga/el-senor-de-los-anillos.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
