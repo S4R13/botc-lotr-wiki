@@ -9,8 +9,8 @@
   "theme_color": "#0c1012",
   "icons": [
     {
-      "src": "assets/saga/el-senor-de-los-anillos.png",
-      "sizes": "any",
+      "src": "assets/ui/app-icon-192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     }
