@@ -411,8 +411,7 @@ function renderAlmanac(query=""){
 }
 
 function renderSetup(){
- renderNav("setup");
- app.innerHTML=`${topbar()}<div class="placeholder"><div class="symbol">✧</div><div class="eyebrow">Módulo funcional</div><h1>Preparar partida</h1><p>Este será el lugar donde integrar tu código de sorteo de personajes. La ventaja de esta arquitectura es que podrá leer exactamente la misma base de datos de Scripts y personajes que usa el Almanaque.</p></div>`;
+ renderIntegratedSetup();
 }
 
 function router(){
